@@ -14,5 +14,5 @@ print(emp1.email)
 print(emp2.email)
 print(emp1.fullname())
 print(emp2.fullname())
-#we need to explicitly define what on which object we want to apply this method
+#we need to explicitly define on which object we want to apply this method
 print(Employee.fullname(emp2))
